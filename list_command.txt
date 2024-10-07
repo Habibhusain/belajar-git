@@ -13,3 +13,4 @@
 13. git checkout hash/nama_branch -> memindahkan head ke commit/branch tertentu
 14. git-init -> menginisiasi folder jadi repository
 15. git reflog -> untuk melihat riwayat commit yang baru 
+16. git restore -> untuk undo file working area
