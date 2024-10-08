@@ -14,3 +14,4 @@
 14. git-init -> menginisiasi folder jadi repository
 15. git reflog -> untuk melihat riwayat commit yang baru 
 16. git restore -> untuk undo file working area
+17. git remote add URL_GIT -> untuk menyambung dari git ke github
